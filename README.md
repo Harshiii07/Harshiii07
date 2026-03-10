@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Harshita Bajaj
 
-<!--
-**Harshiii07/Harshiii07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS Business Analytics – University of New Haven  
+📊 Aspiring Data Analyst | Business Intelligence | Data Visualization | Business Analyst
 
-Here are some ideas to get you started:
+I enjoy working with data to uncover insights and support better business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- SQL
+- Python
+- Power BI
+- Tableau
+- Excel
+- Data Visualization
+- Data Analysis
+
+---
+
+## Projects
+
+### FleetCor Data Analysis
+Financial transaction analysis and Power BI dashboards to improve reporting efficiency.
+
+🔗 https://github.com/Harshiii07/fleetcor-data-analysis
+
+---
+
+### Netflix Power BI Dashboard
+Dashboard analyzing Netflix content trends and distribution.
+
+🔗 https://github.com/Harshiii07/netflix-powerbi-dashboard
+
+---
+
+### Retail Sales Tableau Dashboard
+Interactive Tableau dashboard analyzing retail sales performance.
+
+🔗 https://github.com/Harshiii07/retail-sales-tableau-dashboard
+
+---
+
+## Education
+
+**University of New Haven**  
+MS Business Analytics (GPA: 3.7)  
+Expected Graduation: May 2026
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/harshita-bajaj-921964213/
+Email: hbaja1@unh.newhaven.edu

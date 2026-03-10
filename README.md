@@ -8,14 +8,16 @@ I enjoy working with data to uncover insights and support better business decisi
 ---
 
 ## Skills
-- SQL
-- Python
-- Power BI
-- Tableau
-- Excel
-- Data Visualization
-- Data Analysis
-
+SQL
+Python
+Power BI
+Tableau
+Excel
+R
+Data Visualization
+Exploratory Data Analysis (EDA)
+Business Intelligence
+Data Cleaning
 ---
 
 ## Projects
